@@ -20,6 +20,7 @@
 @media (min-width: 992px) {
     #login {
         width: 950px;
+        margin: 20px;
     }
 
     #imagem {
