@@ -23,6 +23,10 @@
     h1 {
         font-size: 1.7rem;
     }
+
+    #forgot {
+        font-size: 0.9m;
+    }
 }
 
 @media (min-width: 992px) {
@@ -48,5 +52,9 @@
 
     h1 {
         font-size: 1.9em;
+    }
+
+    #forgot {
+        font-size: 0.9em;
     }
 }
