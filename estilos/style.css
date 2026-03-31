@@ -23,12 +23,12 @@ body {
 h1 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
-    font-size: 1.6em;
+    font-size: 1.5em;
     margin: 10px;
 }
 
 p {
-    font-size: .9em;
+    font-size: .8em;
     text-align: center;
     margin-top: 0;
 }
@@ -79,18 +79,18 @@ span {
 }
 
 .campo input {
-    font-size: 0.9em;
+    font-size: .8em;
     height: 100%;
     width: calc(100% - 40px);
-    padding: 4px;
+    padding: 5px;
 }
 
 input[type=submit] {
     display: block;
     font-size: 1em;
-    width: 50%;
+    width: 150px;
     height: 30px;
-    background-color: #1f7bc5;
+    background-color: #2286d8;
     color: rgb(255, 255, 255);
     border: none;
     border-radius: 7px;
@@ -103,7 +103,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover{
-    background-color: #1f66a0;
+    background-color: #2574b4;
 }
 
 #forgot {
