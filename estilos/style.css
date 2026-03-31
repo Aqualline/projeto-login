@@ -22,6 +22,14 @@ body {
 
 h1 {
     font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 1.6em;
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-size: .9em;
 }
 
 main {
